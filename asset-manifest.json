@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/mini_blog/static/css/main.31d6cfe0.css",
+    "main.js": "/mini_blog/static/js/main.eb203317.js",
+    "index.html": "/mini_blog/index.html",
+    "main.eb203317.js.map": "/mini_blog/static/js/main.eb203317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.eb203317.js"
+  ]
+}
